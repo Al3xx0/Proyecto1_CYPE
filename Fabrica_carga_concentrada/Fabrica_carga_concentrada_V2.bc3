@@ -1,0 +1,232 @@
+~V|CYPE INGENIEROS, S.A.|FIEBDC-3/2002|CYPELEC||ANSI|
+~K|\2\3\3\2\2\2\2\EUR|0.00\0.00\0.00\\0.00||
+~C|CYPELEC##||Cuadro de materiales|0.00||0|
+~D|CYPELEC##|
+003#\\1.000\
+004#\\1.000\
+006#\\1.000\
+007#\\1.000\
+008#\\1.000\
+010#\\1.000\
+011#\\1.000\
+017#\\1.000\
+|
+~C|003#||Magnetotérmicos|0.00||0|
+~C|003.001|Ud|Industrial (IEC 60947-2); In: 160 A; Im: 1600 A; Icu: 10.00 kA. 3P+N|0.00||0|
+~C|003.002|Ud|Doméstico o análogo (IEC 60898); In: 80 A; Icu: 6 kA; Curva: C. 3P+N|0.00||0|
+~C|003.003|Ud|Doméstico o análogo (IEC 60898); In: 16 A; Icu: 4.5 kA; Curva: C. 1P+N|0.00||0|
+~C|003.004|Ud|Doméstico o análogo (IEC 60898); In: 16 A; Icu: 6 kA; Curva: C. 3P+N|0.00||0|
+~C|003.005|Ud|Doméstico o análogo (IEC 60898); In: 6 A; Icu: 6 kA; Curva: C. 3P+N|0.00||0|
+~C|003.006|Ud|Doméstico o análogo (IEC 60898); In: 6 A; Icu: 4.5 kA; Curva: C. 1P+N|0.00||0|
+~C|003.007|Ud|Doméstico o análogo (IEC 60898); In: 25 A; Icu: 6 kA; Curva: C. 3P+N|0.00||0|
+~C|003.008|Ud|Doméstico o análogo (IEC 60898); In: 25 A; Icu: 1.5 kA; Curva: C. 3P+N|0.00||0|
+~C|003.009|Ud|Doméstico o análogo (IEC 60898); In: 20 A; Icu: 1.5 kA; Curva: C. 3P+N|0.00||0|
+~C|003.010|Ud|Doméstico o análogo (IEC 60898); In: 10 A; Icu: 1.5 kA; Curva: C. 3P+N|0.00||0|
+~C|003.011|Ud|Doméstico o análogo (IEC 60898); In: 6 A; Icu: 1.5 kA; Curva: C. 1P+N|0.00||0|
+~C|003.012|Ud|Doméstico o análogo (IEC 60898); In: 6 A; Icu: 1.5 kA; Curva: C. 3P+N|0.00||0|
+~C|003.013|Ud|Doméstico o análogo (IEC 60898); In: 32 A; Icu: 6 kA; Curva: C. 3P+N|0.00||0|
+~C|003.014|Ud|Doméstico o análogo (IEC 60898); In: 32 A; Icu: 1.5 kA; Curva: C. 3P+N|0.00||0|
+~C|003.015|Ud|Doméstico o análogo (IEC 60898); In: 16 A; Icu: 1.5 kA; Curva: C. 1P+N|0.00||0|
+~D|003#|
+003.001\\1.000\
+003.002\\1.000\
+003.003\\1.000\
+003.004\\1.000\
+003.005\\1.000\
+003.006\\1.000\
+003.007\\2.000\
+003.008\\4.000\
+003.009\\1.000\
+003.010\\1.000\
+003.011\\3.000\
+003.012\\1.000\
+003.013\\1.000\
+003.014\\1.000\
+003.015\\3.000\
+|
+~M|003\003.001|1\1||
+\Industrial (IEC 60947-2); In: 160 A; Im: 1600 A; Icu: 10.00 kA. 3P+N\1\\\\
+|
+~M|003\003.002|1\2||
+\Doméstico o análogo (IEC 60898); In: 80 A; Icu: 6 kA; Curva: C. 3P+N\1\\\\
+|
+~M|003\003.003|1\3||
+\Doméstico o análogo (IEC 60898); In: 16 A; Icu: 4.5 kA; Curva: C. 1P+N\1\\\\
+|
+~M|003\003.004|1\4||
+\Doméstico o análogo (IEC 60898); In: 16 A; Icu: 6 kA; Curva: C. 3P+N\1\\\\
+|
+~M|003\003.005|1\5||
+\Doméstico o análogo (IEC 60898); In: 6 A; Icu: 6 kA; Curva: C. 3P+N\1\\\\
+|
+~M|003\003.006|1\6||
+\Doméstico o análogo (IEC 60898); In: 6 A; Icu: 4.5 kA; Curva: C. 1P+N\1\\\\
+|
+~M|003\003.007|1\7||
+\Doméstico o análogo (IEC 60898); In: 25 A; Icu: 6 kA; Curva: C. 3P+N\2\\\\
+|
+~M|003\003.008|1\8||
+\Doméstico o análogo (IEC 60898); In: 25 A; Icu: 1.5 kA; Curva: C. 3P+N\4\\\\
+|
+~M|003\003.009|1\9||
+\Doméstico o análogo (IEC 60898); In: 20 A; Icu: 1.5 kA; Curva: C. 3P+N\1\\\\
+|
+~M|003\003.010|1\10||
+\Doméstico o análogo (IEC 60898); In: 10 A; Icu: 1.5 kA; Curva: C. 3P+N\1\\\\
+|
+~M|003\003.011|1\11||
+\Doméstico o análogo (IEC 60898); In: 6 A; Icu: 1.5 kA; Curva: C. 1P+N\3\\\\
+|
+~M|003\003.012|1\12||
+\Doméstico o análogo (IEC 60898); In: 6 A; Icu: 1.5 kA; Curva: C. 3P+N\1\\\\
+|
+~M|003\003.013|1\13||
+\Doméstico o análogo (IEC 60898); In: 32 A; Icu: 6 kA; Curva: C. 3P+N\1\\\\
+|
+~M|003\003.014|1\14||
+\Doméstico o análogo (IEC 60898); In: 32 A; Icu: 1.5 kA; Curva: C. 3P+N\1\\\\
+|
+~M|003\003.015|1\15||
+\Doméstico o análogo (IEC 60898); In: 16 A; Icu: 1.5 kA; Curva: C. 1P+N\3\\\\
+|
+~C|004#||Fusibles|0.00||0|
+~C|004.001|Ud|Tipo gL/gG; In: 80 A; Icu: 20 kA|0.00||0|
+~D|004#|
+004.001\\4.000\
+|
+~M|004\004.001|2\1||
+\Tipo gL/gG; In: 80 A; Icu: 20 kA\4\\\\
+|
+~C|006#||Diferenciales|0.00||0|
+~C|006.001|Ud|Selectivo; In: 160.00 A; Sensibilidad: 300 mA; Clase: AC. 4P|0.00||0|
+~C|006.002|Ud|Instantáneo; In: 25.00 A; Sensibilidad: 30 mA; Clase: A. 2P|0.00||0|
+~C|006.003|Ud|Instantáneo; In: 25.00 A; Sensibilidad: 30 mA; Clase: AC. 4P|0.00||0|
+~C|006.004|Ud|Selectivo; In: 25.00 A; Sensibilidad: 30 mA; Clase: AC. 4P|0.00||0|
+~C|006.005|Ud|Selectivo; In: 25.00 A; Sensibilidad: 30 mA; Clase: AC. 2P|0.00||0|
+~C|006.006|Ud|Selectivo; In: 25.00 A; Sensibilidad: 100 mA; Clase: AC. 4P|0.00||0|
+~C|006.007|Ud|Selectivo; In: 40.00 A; Sensibilidad: 100 mA; Clase: AC. 4P|0.00||0|
+~D|006#|
+006.001\\1.000\
+006.002\\1.000\
+006.003\\4.000\
+006.004\\3.000\
+006.005\\7.000\
+006.006\\2.000\
+006.007\\1.000\
+|
+~M|006\006.001|3\1||
+\Selectivo; In: 160.00 A; Sensibilidad: 300 mA; Clase: AC. 4P\1\\\\
+|
+~M|006\006.002|3\2||
+\Instantáneo; In: 25.00 A; Sensibilidad: 30 mA; Clase: A. 2P\1\\\\
+|
+~M|006\006.003|3\3||
+\Instantáneo; In: 25.00 A; Sensibilidad: 30 mA; Clase: AC. 4P\4\\\\
+|
+~M|006\006.004|3\4||
+\Selectivo; In: 25.00 A; Sensibilidad: 30 mA; Clase: AC. 4P\3\\\\
+|
+~M|006\006.005|3\5||
+\Selectivo; In: 25.00 A; Sensibilidad: 30 mA; Clase: AC. 2P\7\\\\
+|
+~M|006\006.006|3\6||
+\Selectivo; In: 25.00 A; Sensibilidad: 100 mA; Clase: AC. 4P\2\\\\
+|
+~M|006\006.007|3\7||
+\Selectivo; In: 40.00 A; Sensibilidad: 100 mA; Clase: AC. 4P\1\\\\
+|
+~C|007#||Limitadores de sobretensiones transitorias|0.00||0|
+~C|007.001|Ud|Tipo 1+2; I##AS202imp##___: 100 kA; U##AS202p##___: 2.5 kV. 3P+N|0.00||0|
+~D|007#|
+007.001\\1.000\
+|
+~M|007\007.001|4\1||
+\Tipo 1+2; I##AS202imp##___: 100 kA; U##AS202p##___: 2.5 kV. 3P+N\1\\\\
+|
+~C|008#||Limitadores de sobretensiones permanentes|0.00||0|
+~C|008.001|Ud|Bobina de protección contra sobretensiones permanentes fase-neutro de 231 V|0.00||0|
+~D|008#|
+008.001\\3.000\
+|
+~M|008\008.001|5\1||
+\Bobina de protección contra sobretensiones permanentes fase-neutro de 231 V\3\\\\
+|
+~C|010#||Cables|0.00||0|
+~C|010.001|m|RZ1-K (AS) Cca-s1b,d1,a1 0,6/1 kV Cobre, Poliolefina termoplástica (Z1), 25 mm². Unipolar|0.00||0|
+~C|010.002|m|RZ1-K (AS) Cca-s1b,d1,a1 0,6/1 kV Cobre, Poliolefina termoplástica (Z1), 16 mm². Unipolar|0.00||0|
+~C|010.003|m|H07V-K Eca 450/750 V Cobre, 2.5 mm². Unipolar|0.00||0|
+~C|010.004|m|H07V-K Eca 450/750 V Cobre, 1.5 mm². Unipolar|0.00||0|
+~C|010.005|m|H07Z1-K (AS) Cca-s1b,d1,a1 450/750 V Cobre, 4 mm². Unipolar|0.00||0|
+~C|010.006|m|H07V-K Eca 450/750 V Cobre, 4 mm². Unipolar|0.00||0|
+~C|010.007|m|H07Z1-K (AS) Cca-s1b,d1,a1 450/750 V Cobre, 6 mm². Unipolar|0.00||0|
+~D|010#|
+010.001\\160.040\
+010.002\\40.000\
+010.003\\360.000\
+010.004\\439.000\
+010.005\\375.000\
+010.006\\120.000\
+010.007\\300.000\
+|
+~M|010\010.001|6\1||
+\RZ1-K (AS) Cca-s1b,d1,a1 0,6/1 kV Cobre, Poliolefina termoplástica (Z1), 25 mm². Unipolar\160.04\\\\
+|
+~M|010\010.002|6\2||
+\RZ1-K (AS) Cca-s1b,d1,a1 0,6/1 kV Cobre, Poliolefina termoplástica (Z1), 16 mm². Unipolar\40\\\\
+|
+~M|010\010.003|6\3||
+\H07V-K Eca 450/750 V Cobre, 2.5 mm². Unipolar\360\\\\
+|
+~M|010\010.004|6\4||
+\H07V-K Eca 450/750 V Cobre, 1.5 mm². Unipolar\439\\\\
+|
+~M|010\010.005|6\5||
+\H07Z1-K (AS) Cca-s1b,d1,a1 450/750 V Cobre, 4 mm². Unipolar\375\\\\
+|
+~M|010\010.006|6\6||
+\H07V-K Eca 450/750 V Cobre, 4 mm². Unipolar\120\\\\
+|
+~M|010\010.007|6\7||
+\H07Z1-K (AS) Cca-s1b,d1,a1 450/750 V Cobre, 6 mm². Unipolar\300\\\\
+|
+~C|011#||Canalizaciones|0.00||0|
+~C|011.001|m|Tubo 63 mm|0.00||0|
+~C|011.002|m|Tubo 16 mm|0.00||0|
+~C|011.003|m|Tubo 20 mm|0.00||0|
+~C|011.004|m|Tubo 25 mm|0.00||0|
+~D|011#|
+011.001\\40.000\
+011.002\\212.000\
+011.003\\114.000\
+011.004\\60.000\
+|
+~M|011\011.001|7\1||
+\Tubo 63 mm\40\\\\
+|
+~M|011\011.002|7\2||
+\Tubo 16 mm\212\\\\
+|
+~M|011\011.003|7\3||
+\Tubo 20 mm\114\\\\
+|
+~M|011\011.004|7\4||
+\Tubo 25 mm\60\\\\
+|
+~C|017#||Otros|0.00||0|
+~C|017.001|Ud|Contador. 3P+N|0.00||0|
+~C|017.002|Ud|Interruptor en carga. 3P+N|0.00||0|
+~C|017.003|Ud|Contador secundario (VE). 1P+N|0.00||0|
+~D|017#|
+017.001\\1.000\
+017.002\\1.000\
+017.003\\1.000\
+|
+~M|017\017.001|8\1||
+\Contador. 3P+N\1\\\\
+|
+~M|017\017.002|8\2||
+\Interruptor en carga. 3P+N\1\\\\
+|
+~M|017\017.003|8\3||
+\Contador secundario (VE). 1P+N\1\\\\
+|
